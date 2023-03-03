@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tl-centre.ge	TRUE	/	FALSE	1999999999	PHPSESSID	b60d280e310fc7c4cc739b51d22637d5
+

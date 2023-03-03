@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Mar 2023 16:09:00 at https://tl-centre.ge/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tl-centre.ge/ -O1 "C:\My Web Sites\tl-center" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:09:48	Error: 	"Not Found" (404) at link https://tl-centre.ge/img/icons/spinner-tide.gif (from https://tl-centre.ge/css/header.css?v=1677845353)
+16:09:48	Error: 	"Not Found" (404) at link https://tl-centre.ge/fonts/markgeoregular.woff2 (from https://tl-centre.ge/css/geo.css?v=1677845353)
+16:09:48	Error: 	"Not Found" (404) at link https://tl-centre.ge/c (from https://connect.facebook.net/en_US/fbevents.js)
+16:09:48	Error: 	"Not Found" (404) at link https://tl-centre.ge/b (from https://connect.facebook.net/en_US/fbevents.js)
+16:09:48	Error: 	"Not Found" (404) at link https://tl-centre.ge/POST (from https://connect.facebook.net/en_US/fbevents.js)
+16:09:48	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/Courses/გერმანული-ენა-ზრდასრულთათვის/ (from https://tl-centre.ge/Courses/გერმანული-ენა-ზრდასრულთათვის/)
+16:09:48	Error: 	"Bad Request" (400) at link https://connect.facebook.net/ka_GE/sdk.js (from https://tl-centre.ge/Courses/გერმანული-ენა-ზრდასრულთათვის/)
+16:09:48	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/Courses/გერმანული-ენის-კურსები-სკოლის-მოსწავლეებისათვის/ (from https://tl-centre.ge/Courses/გერმანული-ენის-კურსები-სკოლის-მოსწავლეებისათვის/)
+16:09:49	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/Courses/ინგლისურის-შესწავლა-ონლაინ/ (from https://tl-centre.ge/Courses/ინგლისურის-შესწავლა-ონლაინ/)
+16:09:49	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/Courses/ინგლისური-აბიტურიენტებისათვის/ (from https://tl-centre.ge/Courses/ინგლისური-აბიტურიენტებისათვის/)
+16:09:49	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/Courses/IELTS-sagamocdo-cursi/ (from https://tl-centre.ge/Courses/IELTS-sagamocdo-cursi/)
+16:09:49	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/Courses/momzadeba-FCE-gamocdistvis/ (from https://tl-centre.ge/Courses/momzadeba-FCE-gamocdistvis/)
+16:09:51	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/news-info/inglisuri-enis-kursebi/ (from https://tl-centre.ge/news-info/inglisuri-enis-kursebi/)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/news-info/სწავლა-საზღვარგარეთ/ (from https://tl-centre.ge/news-info/სწავლა-საზღვარგარეთ/)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/tl-centre/news-info/ინგლისური-ენის-ცენტრი/ (from https://tl-centre.ge/news-info/ინგლისური-ენის-ცენტრი/)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/chrome-extension:// (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/LiveChatEvent/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/rsrc.php/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+16:09:52	Error: 	"Not Found" (404) at link https://tl-centre.ge/img/background.png (from https://tl-centre.ge/css/contacts.css)
+16:09:53	Error: 	"Not Found" (404) at link https://tl-centre.ge/icon/2705.png (from https://tl-centre.ge/css/news-info.css?v=1677845366)
+16:09:53	Error: 	"Not Found" (404) at link https://tl-centre.ge/icon/27051.png (from https://tl-centre.ge/css/news-info.css?v=1677845366)
+
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 157 links scanned, 130 files written (8316309 bytes overall) [6080741 bytes received at 114730 bytes/sec], 3617850 bytes transferred using HTTP compression in 105 files, ratio 36%, 7.4 requests per connection
+(26 errors, 0 warnings, 0 messages)
